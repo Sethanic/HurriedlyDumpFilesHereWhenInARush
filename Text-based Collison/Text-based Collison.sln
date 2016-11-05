@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D2EC587B-08C0-175C-047E-B286B0BEDE74}") = "Text-based Collison", "Assembly-CSharp.csproj", "{AB7E2F5D-B906-4D67-7F9E-A4CB5F90B2C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7E2F5D-B906-4D67-7F9E-A4CB5F90B2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7E2F5D-B906-4D67-7F9E-A4CB5F90B2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7E2F5D-B906-4D67-7F9E-A4CB5F90B2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7E2F5D-B906-4D67-7F9E-A4CB5F90B2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
