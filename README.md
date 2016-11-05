@@ -1,0 +1,2 @@
+# HurriedlyDumpFilesHereWhenInARush
+Debug.Log();
